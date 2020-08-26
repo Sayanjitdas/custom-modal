@@ -8,6 +8,6 @@ modal slides down and on close button click modal slides
 up and fades out.
 
 
-[close Icons made by](https://www.flaticon.com/authors/xnimrodx)
+[close Icons made by xnimrodx](https://www.flaticon.com/authors/xnimrodx)
 
-[animation reference from](https://animista.net/) 
+[animation reference from animista](https://animista.net/) 
