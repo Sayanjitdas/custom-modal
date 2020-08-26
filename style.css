@@ -4,6 +4,27 @@ body{
     box-sizing: border-box;
 }
 
+.container{
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#open-modal{
+  cursor: pointer;
+  outline:none;
+  background:transparent;
+  padding: 1rem;
+  font-size:1rem;
+  transition: all 0.2s;
+}
+
+#open-modal:hover{
+  background:black;
+  color: white;
+}
 
 .modal-base{
     position:fixed;
